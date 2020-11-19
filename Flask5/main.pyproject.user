@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2020-11-19T15:43:15. -->
+<!-- Written by QtCreator 4.11.0, 2020-11-19T15:43:44. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -143,11 +143,11 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">main</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask4/main.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask4/main.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">main3</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask5/static/css/main.css</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask5/static/css/main.css</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{440e53a0-bcc9-4ef0-b060-250e138451f2}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask4\main.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask5\static\css\main.css</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -157,7 +157,7 @@
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Data/Зарина/Flask/Flask4</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Data/Зарина/Flask/Flask5/static/css</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
     <value type="QString" key="Analyzer.Perf.CallgraphMode">dwarf</value>
@@ -219,11 +219,11 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">create-article</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask4/templates/create-article.html</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask4/templates/create-article.html</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">posts2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask5/templates/posts.html</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask5/templates/posts.html</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter"></value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask4\templates\create-article.html</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask5\templates\posts.html</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -295,11 +295,11 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">main2</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask4/static/css/main.css</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask4/static/css/main.css</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">index2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask5/templates/index.html</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask5/templates/index.html</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter"></value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask4\static\css\main.css</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask5\templates\index.html</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -371,11 +371,11 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">posts</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask4/templates/posts.html</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask4/templates/posts.html</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">main4</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask5/main.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask5/main.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter"></value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask4\templates\posts.html</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask5\main.py</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -447,11 +447,11 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">index</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask4/templates/index.html</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask4/templates/index.html</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">base2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask5/templates/base.html</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask5/templates/base.html</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter"></value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask4\templates\index.html</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask5\templates\base.html</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -523,11 +523,11 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">base</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask4/templates/base.html</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask4/templates/base.html</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">about2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask5/templates/about.html</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask5/templates/about.html</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter"></value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask4\templates\base.html</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask5\templates\about.html</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -599,11 +599,11 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">about</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask4/templates/about.html</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask4/templates/about.html</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">create-article2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask5/templates/create-article.html</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask5/templates/create-article.html</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter"></value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask4\templates\about.html</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask5\templates\create-article.html</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -675,11 +675,11 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">post_detail</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask4/templates/post_detail.html</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask4/templates/post_detail.html</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">post_detail2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask5/templates/post_detail.html</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask5/templates/post_detail.html</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter"></value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask4\templates\post_detail.html</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask5\templates\post_detail.html</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
