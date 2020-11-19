@@ -1,0 +1,11 @@
+{
+    "files": [
+        "main.py",
+        "static/css/main.css",
+        "templates/index.html",
+        "templates/create-article.html",
+        "templates/about.html",
+        "templates/base.html",
+        "templates/posts.html"
+    ]
+}
