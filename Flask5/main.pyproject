@@ -7,6 +7,7 @@
         "templates/about.html",
         "templates/base.html",
         "templates/posts.html",
-        "templates/post_detail.html"
+        "templates/post_detail.html",
+        "templates/post_update.html"
     ]
 }
