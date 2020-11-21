@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2020-11-20T11:44:01. -->
+<!-- Written by QtCreator 4.11.0, 2020-11-21T15:34:45. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -754,7 +754,7 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">main5</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Data/Зарина/Flask/Flask5/main.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Data/Зарина/Flask/Flask5/main.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{440e53a0-bcc9-4ef0-b060-250e138451f2}</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{09b2494e-220e-4cc3-8053-38bd5dc3f7f6}</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Data\Зарина\Flask\Flask5\main.py</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
